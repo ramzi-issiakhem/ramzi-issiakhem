@@ -6,9 +6,16 @@ Hello there, I am Issiakhem Mohamed Ramzi, A PHP Backend Developper from Algeria
 
 
 <h1 > Projects:  </h1>
-<h2> Mobile App Project : </h2>
-
+ <h2>Web Project : </h2> 
+ 
+ 
+ 
+ <h2> Mobile App Project : </h2> 
+<ol>
+ <li>
 <h3> Project Initiative Club : </h3>
+  </li>
+ 
 A Mobile Application used as A Guide to All the new Students at USTHB.
 Its main Functionalities:
  <ul>
@@ -27,7 +34,7 @@ Its main Functionalities:
 
 
 
-<h3> Adopt My Pet Dz : </h3>
+<li> <h3> Adopt My Pet Dz : </h3> </li>
 A Mobile Application used to put an animal in adoption or adopt one:
 Its main Functionalities:
  <ul>
