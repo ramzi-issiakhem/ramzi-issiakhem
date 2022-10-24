@@ -5,8 +5,8 @@ Hello there, I am Issiakhem Mohamed Ramzi, A PHP Backend Developper from Algeria
 
 
 
-<h2 > Projects:  </h2>
-<h4 > Mobile App Project :</h4>
+<h1 > Projects:  </h1>
+<h2> Mobile App Project : </h2>
 
 <h3> Project Initiative Club : </h3>
 A Mobile Application used as A Guide to All the new Students at USTHB.
@@ -42,22 +42,12 @@ Its main Functionalities:
   <li> Others: Git,User Interface,Software Engineering ... </li>
  </ul>
  Check it here : <a href="">Click Me :p </a>
- 
- 
 
 
 
 
 
-<h5> Adopt My Pet Dz </h5>
-
-<h5> Bahart My Pet Dz </h5>
-
-
-
-
-<h4 > Mobile Application Project :</h4>
-
+<h2 > Mobile Application Project :</h2>
 
 
 
