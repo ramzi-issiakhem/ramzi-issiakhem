@@ -1,5 +1,9 @@
+<h1> About Me </h1>
 
 Hello there, I am Issiakhem Mohamed Ramzi, A PHP Backend Developper from Algeria.
+
+Always passionated by Discovering new things, learning new Skills and seeking for opportunities.
+I Started in the field Of Computer From my young age, starting by developping in video games ( 3D Modeling, 3D Animation and Scripting ),
 
 
 
@@ -50,11 +54,6 @@ Its main Functionalities:
  </ul>
  Check it here : <a href="">Click Me :p </a>
 
-
-
-
-
-<h2 > Mobile Application Project :</h2>
 
 
 
