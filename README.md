@@ -7,6 +7,8 @@ Always passionated about Discovering new things, learning new Skills and seeking
 I Started in the field Of Computer Science From my young age, starting by developping in video games ( 3D Modeling, 3D Animation and Scripting ), and then discovering about Desktop (Python,C++,Java) and Mobile Application (Flutter,Java).
 <br>
 Currently, I'm aiming to become a Full Stack Developper MERN.
+<br><br>
+If you have any question, Just  Feel Free to <a href="#contact"> Contact Me </a> :D
 
 
 
@@ -147,7 +149,7 @@ Its main Functionalities:
  Check it here : <a href="">Click Me :p </a>
 </ol>
 
-<h1> Contact Me </h1>
+<h1 id="contact"> Contact Me </h1>
 
 You can contact me via: <br>
  <a href="mailto:issiakem.mohamedramzi@gmail.com"> <img width=40px height=40px src="https://zupimages.net/up/22/43/gw3i.png"> </a>
