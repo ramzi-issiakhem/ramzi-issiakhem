@@ -4,9 +4,10 @@
 Hello there, I am Issiakhem Mohamed Ramzi, A PHP Backend Developper from Algeria & a CyberSecurity Enthusiast.
 
 Always passionated about Discovering new things, learning new Skills and seeking for opportunities. <br>
-I Started in the field Of Computer Science From my young age, starting by developping in video games ( 3D Modeling, 3D Animation and Scripting ), and then discovering about Desktop (Python,C++,Java) and Mobile Application (Flutter,Java).
+I Started in the field Of Computer Science From my young age, starting by developping in video games ( 3D Modeling, 3D Animation and Scripting ), and then discovering about Desktop (Python,C++,Java) and Mobile Application (Flutter,Java). <br>
+I also been interested by electronis and automatizing system ( Arduino for example ) 
 <br>
-Currently, I'm aiming to become a Full Stack Developper MERN.
+Currently, I'm aiming to become a Full Stack Developper.
 <br><br>
 If you have any question, Just  Feel Free to <a href="#contact"> Contact Me </a> :D
 
