@@ -154,8 +154,8 @@ Its main Functionalities:
 
 You can contact me via: <br>
  <a href="mailto:issiakem.mohamedramzi@gmail.com"> <img width=40px height=40px src="https://zupimages.net/up/22/43/gw3i.png"> </a>
- <a href="www.linkedin.com/in/mohamed-ramzi-issiakhem-4b9b8b1aa"> <img width=40px height=40px src="https://zupimages.net/up/22/14/s2g7.png"> </a> 
- <a href="discordapp.com/users/375733539427188747"> <img width=40px height=40px src="https://zupimages.net/up/20/14/hnvw.png"> </a> 
+ <a href="https://www.linkedin.com/in/mohamed-ramzi-issiakhem-4b9b8b1aa"> <img width=40px height=40px src="https://zupimages.net/up/22/14/s2g7.png"> </a> 
+ <a href="https://discordapp.com/users/375733539427188747"> <img width=40px height=40px src="https://zupimages.net/up/20/14/hnvw.png"> </a> 
 
 
 
