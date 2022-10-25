@@ -1,5 +1,5 @@
 <h1> About Me </h1>
-<img src="https://footballqueensland.com.au/wp-content/uploads/2019/02/1902035-Comp-Comp-Logos-Web-Banner-1920x300.jpg">
+<img alt="about_me" src="https://zupimages.net/up/22/43/t020.png">
 
 Hello there, I am Issiakhem Mohamed Ramzi, A PHP Backend Developper from Algeria & a CyberSecurity Enthusiast.
 
@@ -12,7 +12,7 @@ Currently, I'm aiming to become a Full Stack Developper MERN.
 
 
 <h1 > Projects:  </h1>
- <h2>Web Project : </h2> 
+ <img alt="about_me" src="https://zupimages.net/up/22/43/8t6u.png"> 
      
  <ol>
  <li>
@@ -106,7 +106,7 @@ Currently, I'm aiming to become a Full Stack Developper MERN.
 
  
  
- <h2> Mobile App Project : </h2> 
+ <img alt="mobile_apps" src="https://zupimages.net/up/22/43/kh4z.png">
 <ol>
  <li>
 <h3> Project Initiative Club : </h3>
@@ -147,12 +147,13 @@ Its main Functionalities:
  Check it here : <a href="">Click Me :p </a>
 </ol>
 
+<h1> Contact Me </h1>
 
+You can contact me via: <br>
+ <a href="mailto:issiakem.mohamedramzi@gmail.com"> <img width=40px height=40px src="https://zupimages.net/up/22/43/gw3i.png"> </a>
+ <a href="www.linkedin.com/in/mohamed-ramzi-issiakhem-4b9b8b1aa"> <img width=40px height=40px src="https://zupimages.net/up/22/14/s2g7.png"> </a> 
+ <a href="discordapp.com/users/375733539427188747"> <img width=40px height=40px src="https://zupimages.net/up/20/14/hnvw.png"> </a> 
 
-
-
-
-<a href="facebook.com"> Facebook </a>
 
 
 
