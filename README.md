@@ -28,12 +28,12 @@ I care about business logic, performance, and maintainability — not just code.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **Walvis** |
-| **Palmary** |
-| **Cevital** |
-| **Ooredoo** |
-| **CRM** |
-| **Ted3im Saas** |
+| <a href="https://walvis.app">**Walvis** </a> | a bookkeeping software that simplifies financial management for your company and accountant. It streamlines document organization, facilitates accountant-client discussions, and optimizes financial management | Laravel & VueJS
+| **Palmary Stock Management** | an internal dashboard designed to  centralize the entire inventory and delivery workflow. It enables efficient stock management, product dispatching, and real-time tracking of deliveries | Laravel & Filament
+| **Cevital Formation Tool** | A training management tool that streamlines the entire group formation process—from planning to session management, participant tracking, and evaluation | Laravel & React 
+| **Ooredoo Algeria - Telephonic Usage** | This application offers comprehensive management of your telephone usage. You can set consumption limits for internet data and phone calls, while benefiting from full SIM card management for absolute control of your business | Laravel & VueJS
+| **Espo CRM** | Implemented the entire pipeline and workflow of their CRM, including automation and customer tracking, thereby enhancing efficiency and contributing to our clients' growth | EspoCRM & Automation
+| <a href="https://ted3im.com">**Ted3im Saas**</a> | A streaming platform for kids, combining entertainment and education through fun, age-appropriate content | Laravel & Filament
 
 
 ---
